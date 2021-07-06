@@ -8,7 +8,7 @@ updates:
     pull-request-branch-name:
       separator: "-"
   - package-ecosystem: gradle
-      directory: "/app/"
+      directory: "/app"
       schedule:
         interval: daily
       open-pull-requests-limit: 10
