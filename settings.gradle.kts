@@ -1,2 +1,2 @@
 rootProject.name = "Dependabottest"
-include ':app'
+include(":app")

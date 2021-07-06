@@ -1,0 +1,1 @@
+/home/android-dev/AndroidStudioProjects/Dependabottest/buildSrc/build/classes/kotlin/main/Deps$AndroidX.class:/home/android-dev/AndroidStudioProjects/Dependabottest/buildSrc/build/classes/kotlin/main/Deps$Kotlin.class:/home/android-dev/AndroidStudioProjects/Dependabottest/buildSrc/build/classes/kotlin/main/Deps.class
