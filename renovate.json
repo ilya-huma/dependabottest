@@ -1,5 +1,9 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "enabled": true,
+  "prHourlyLimit": 10,
+  "masterIssue": true
 }
+
