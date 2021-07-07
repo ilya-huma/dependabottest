@@ -3,6 +3,6 @@
     "config:base"
   ],
   "enabled": true,
-  "prHourlyLimit": 10
+  "prHourlyLimit": 11
 }
 
