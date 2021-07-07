@@ -3,6 +3,9 @@
     "config:base"
   ],
   "enabled": true,
-  "prHourlyLimit": 11
+  "prHourlyLimit": 11,
+  "gradle": {
+    "fileMatch": ["^buildSrc/src/main/kotlin/com/dependa/Deps\\.kt$"]
+  }
 }
 

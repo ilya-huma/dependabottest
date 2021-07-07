@@ -1,4 +1,4 @@
-import Deps.AndroidX.okHttpVersion
+import com.dependa.Deps.AndroidX.okHttpVersion
 
 plugins {
     id("com.android.application")
@@ -32,8 +32,8 @@ dependencies {
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.0")
     implementation("androidx.core:core-ktx:1.6.0")
-    implementation(Deps.AndroidX.navFragment)
-    implementation(Deps.AndroidX.appCompat)
+    implementation(com.dependa.Deps.AndroidX.navFragment)
+    implementation(com.dependa.Deps.AndroidX.appCompat)
     implementation("com.squareup.okhttp3:okhttp:$okHttpVersion")
     implementation("com.google.android.material:material:1.4.0")
     testImplementation("junit:junit:4.13.2")
