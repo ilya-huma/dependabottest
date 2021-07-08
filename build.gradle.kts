@@ -3,6 +3,7 @@ buildscript {
     extra.apply {
         set("kotlin_version", "1.5.0")
     }
+    val kotlin_version by extra("1.5.20")
 
     repositories {
         google()

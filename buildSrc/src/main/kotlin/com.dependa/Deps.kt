@@ -29,7 +29,7 @@ object Deps {
         const val navUI = "androidx.navigation:navigation-ui-ktx:$navVersion"
         const val browser = "androidx.browser:browser:1.3.0"
         const val constraint = "androidx.constraintlayout:constraintlayout:2.0.4"
-        const val recycler = "androidx.recyclerview:recyclerview:1.2.0"
+        const val recycler = "androidx.recyclerview:recyclerview:1.1.0"
         const val coordinator = "androidx.coordinatorlayout:coordinatorlayout:1.1.0"
         const val emoji = "androidx.emoji:emoji:1.1.0"
         const val legacy = "androidx.legacy:legacy-support-v4:1.0.0"
