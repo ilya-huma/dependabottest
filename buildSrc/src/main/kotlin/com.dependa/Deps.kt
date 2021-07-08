@@ -17,7 +17,7 @@ object Deps {
     object AndroidX {
         const val okHttpVersion = "4.4.1"
 
-        const val navVersion = "2.3.4"
+        const val navVersion = "2.3.5"
         private const val lifecycleVersion = "2.3.1"
         private const val workVersion = "2.5.0"
         private const val cameraVersion = "1.0.0"
