@@ -30,7 +30,7 @@ android {
 
 dependencies {
 
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.20")
     implementation("androidx.core:core-ktx:1.6.0")
     implementation(com.dependa.Deps.AndroidX.navFragment)
     implementation(com.dependa.Deps.AndroidX.appCompat)
