@@ -33,7 +33,7 @@ android {
 dependencies {
     implementation("org.gradle:gradle-tooling-api:7.1")
     // The tooling API need an SLF4J implementation available at runtime, replace this with any other implementation
-    runtimeOnly("org.slf4j:slf4j-simple:1.7.10")
+    runtimeOnly("org.slf4j:slf4j-simple:1.7.31")
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.0")
     implementation("androidx.core:core-ktx:1.6.0")
