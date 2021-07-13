@@ -31,14 +31,14 @@ android {
 }
 
 dependencies {
-    implementation("org.gradle:gradle-tooling-api:7.1.1")
+    runtimeOnly("org.gradle:gradle-tooling-api:7.1.1")
     // The tooling API need an SLF4J implementation available at runtime, replace this with any other implementation
     runtimeOnly("org.slf4j:slf4j-simple:1.7.10")
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.0")
     implementation("androidx.core:core-ktx:1.6.0")
     runtimeOnly(libs.appCompat)
-    runtimeOnly(com.dependa.Deps.AndroidX.recycler)
+    runtimeOnly(libs.recycler)
     implementation("com.squareup.okhttp3:okhttp:$okHttpVersion")
     implementation("com.google.android.material:material:1.4.0")
     testImplementation("junit:junit:4.13.2")
