@@ -7,7 +7,7 @@ object Deps {
     const val targetSdkVersion = 30
 
     object Kotlin {
-        const val version = "1.5.0"
+        private const val version = "1.5.0"
 
         const val stdLib = "org.jetbrains.kotlin:kotlin-stdlib:$version"
         const val coroutine = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0"
