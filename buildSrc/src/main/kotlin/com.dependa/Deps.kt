@@ -24,7 +24,7 @@ object Deps {
         private const val roomVersion = "2.3.0"
 
         const val coreKtx = "androidx.core:core-ktx:1.3.2"
-        const val appCompat = "androidx.appcompat:appcompat:1.2.0"
+        const val appCompat = "androidx.appcompat:appcompat:1.3.0"
         const val navFragment = "androidx.navigation:navigation-fragment-ktx:$navVersion"
         const val navUI = "androidx.navigation:navigation-ui-ktx:$navVersion"
         const val browser = "androidx.browser:browser:1.3.0"
