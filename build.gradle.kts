@@ -2,7 +2,7 @@ apply("config.gradle")
 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
-
+    apply("config.gradle")
     extra.apply {
         set("kotlin_version", "1.5.0")
     }
