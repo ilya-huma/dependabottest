@@ -36,7 +36,7 @@ android {
 dependencies {
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.5.0")
-    implementation("androidx.core:core-ktx:1.6.0")
+    implementation("androidx.core:core-ktx:1.8.0")
     implementation(springVersion)
     implementation("com.squareup.okhttp3:okhttp:$okHttpVersion")
     implementation("com.google.android.material:material:1.4.0")
