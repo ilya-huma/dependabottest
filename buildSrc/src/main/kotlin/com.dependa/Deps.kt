@@ -20,7 +20,7 @@ object Deps {
         const val navVersion = "2.3.4"
         private const val lifecycleVersion = "2.3.1"
         private const val workVersion = "2.5.0"
-        private const val cameraVersion = "1.0.0"
+        private const val cameraVersion = "1.1.0"
         private const val roomVersion = "2.3.0"
 
         const val coreKtx = "androidx.core:core-ktx:1.3.2"
