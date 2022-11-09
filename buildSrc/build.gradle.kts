@@ -7,7 +7,7 @@ repositories {
     jcenter()
 }
 
-val kotlinVersion = "1.5.0" // Don't forget to update in Dependencies.kt too!
+val kotlinVersion = "1.7.21" // Don't forget to update in Dependencies.kt too!
 
 dependencies {
     implementation("com.android.tools.build:gradle:4.2.2")
