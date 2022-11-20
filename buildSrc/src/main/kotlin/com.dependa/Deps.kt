@@ -44,7 +44,7 @@ object Deps {
         const val camera = "androidx.camera:camera-camera2:$cameraVersion"
         const val cameraLifecycle = "androidx.camera:camera-lifecycle:$cameraVersion"
         const val cameraView = "androidx.camera:camera-view:1.0.0-alpha12"
-        const val cameraExtensions = "androidx.camera:camera-extensions:1.0.0-alpha12"
+        const val cameraExtensions = "androidx.camera:camera-extensions:1.1.0"
 
         const val room = "androidx.room:room-runtime:$roomVersion"
         const val roomCompiler = "androidx.room:room-compiler:$roomVersion"
