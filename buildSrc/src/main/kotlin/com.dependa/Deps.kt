@@ -27,7 +27,7 @@ object Deps {
         const val appCompat = "androidx.appcompat:appcompat:1.2.0"
         const val navFragment = "androidx.navigation:navigation-fragment-ktx:$navVersion"
         const val navUI = "androidx.navigation:navigation-ui-ktx:$navVersion"
-        const val browser = "androidx.browser:browser:1.3.0"
+        const val browser = "androidx.browser:browser:1.4.0"
         const val constraint = "androidx.constraintlayout:constraintlayout:2.0.4"
         const val recycler = "androidx.recyclerview:recyclerview:1.1.0"
         const val coordinator = "androidx.coordinatorlayout:coordinatorlayout:1.1.0"
