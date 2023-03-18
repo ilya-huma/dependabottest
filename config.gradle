@@ -21,7 +21,7 @@ ext.versions = [
         realm             : '1.1.1',
         gson              : '2.6.2',
         materialDialog    : '0.8.5.9@aar',
-        robotoTextView    : '2.5.0'
+        robotoTextView    : '2.5.1'
 ]
 
 ext.libraries = [
