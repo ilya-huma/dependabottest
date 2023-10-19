@@ -7,7 +7,7 @@ plugins {
 
 apply("../config.gradle")
 
-val springVersion by extra("androidx.recyclerview:recyclerview:1.1.0")
+val springVersion by extra("androidx.recyclerview:recyclerview:1.3.2")
 val emailNotification by extra { "build@master.org" }
 
 android {
