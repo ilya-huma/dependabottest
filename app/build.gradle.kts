@@ -39,7 +39,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.6.0")
     implementation(springVersion)
     implementation("com.squareup.okhttp3:okhttp:$okHttpVersion")
-    implementation("com.google.android.material:material:1.4.0")
+    implementation("com.google.android.material:material:1.11.0")
     testImplementation("junit:junit:4.13.2")
 
 }
